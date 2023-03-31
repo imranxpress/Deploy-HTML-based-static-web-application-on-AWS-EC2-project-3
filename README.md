@@ -19,8 +19,9 @@ Deploy HTML based static website on Amazon EC2 instance and configure logging, m
 
 ## Pre-Requisites
 
-    1. You must be having an AWS account to create infrastructure resources on AWS cloud.
-    2. Source Code
+   
+   1. You must be having an [AWS account](https://aws.amazon.com/) to create infrastructure resources on AWS cloud.
+   2. [Source code](https://bitbucket.org/dptrealtime/html-web-app/src/master/)
 
 ## Pre-Deployment
 
